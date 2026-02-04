@@ -11,3 +11,5 @@ See the code in the [MainActivity](app/src/main/java/com/example/leakreproducer/
 
 To see the bug, build and start the application. After some time it will crash
 with a `java.lang.OutOfMemoryError` exception.
+
+There is also a [bugreport upstream](https://github.com/Kotlin/kotlinx.coroutines/issues/4615).
